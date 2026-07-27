@@ -36,7 +36,7 @@ AQI_India_Project/
 ├── notebooks/
 │   └── aqi_analysis.ipynb      # full step-by-step analysis notebook
 └── src/
-    ├── generate_dataset.py     # builds the inbuilt dataset
+    ├── generate_dataset.py     # builds the inbuilt dataset 
     └── train_model.py          # trains & saves the model
 ```
 
